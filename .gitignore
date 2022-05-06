@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/twitterbackend/node_modules
 /.pnp
 .pnp.js
 
